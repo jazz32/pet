@@ -1,7 +1,6 @@
 # pet  
 # This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
 ## 一、 宠物自动喂食器
-===
 #### 系统组成
 * 基座外壳、下料桶、食物盘、压力传感器、密封圈、温湿度传感器、无刷直流电机、显示控制板、警告灯、电路控制系统以及电源开关
 
@@ -16,7 +15,6 @@
 
 
 ## 二、方案应用
-====
 #### 场景地点：
 *  家中任何地方，或是宠物的小窝改造。
  
